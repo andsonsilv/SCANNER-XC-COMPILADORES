@@ -1,3 +1,6 @@
+
+Autor: Antônio Andson da Silva - Ciência da Computação - Campus Quixadá
+
 %{
 
 #include<iostream>
